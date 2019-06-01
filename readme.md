@@ -1,21 +1,24 @@
 2019(1)-OSS-L4  
 
+# Team Github Page
+https://19-1-skku-oss.github.io/2019-1-OSS-L4/
+
 # 팀 구성원
 조우림(팀장) 2017312860  
 2680v4@gmail.com / jkl5616  
-팀장. 팀 홈페이지 코드 관리, 팀원들 참여 상황 관리, Python 또는 자바스크립트 코드 기여
+팀장. 팀 홈페이지 코드 관리, 팀원들 참여 상황 관리, 코드 기여
 
 김승현 2014310279  
 kim95175@gmail.com / kim95175  
 코드 리뷰 및 피드백
 
 김준태 2017314886  
-software3.skku@gamil.com / JTzzang 
-번역 및 피드백 부분 찾아보기
+software3.skku@gamil.com / JTzzang
+번역 및 피드백 
 
 이채현 2018312543  
 eyeoojo@gmail.com / chyeon  
-이슈 리포트
+이슈 리포트 및 번역
 
 조영성 2014312738  
 choys0401@naver.com / choys0401  
@@ -48,6 +51,8 @@ Mattermost 관련 내용은 해당 두 글에서 참조하였습니다.
 [https://blog.cometkim.kr/posts/mattermost-contribution/introduction-to-mattermost/](https://blog.cometkim.kr/posts/mattermost-contribution/introduction-to-mattermost/)  
 [https://blog.cometkim.kr/posts/mattermost-contribution/how-i-grow-up-with-mattermost-community/](https://blog.cometkim.kr/posts/mattermost-contribution/how-i-grow-up-with-mattermost-community/)  
 
+# contribute guide
+https://developers.mattermost.com/contribute/getting-started/
 
-
-
+# mattermost github
+https://github.com/mattermost/
